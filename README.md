@@ -11,7 +11,8 @@ This project demonstrates end-to-end manual testing of a multi-module yoga web a
 ## 📂 Project Structure
 
 ```
-LotusRoom-Testing/
+
+LotusRoom-Testing
 │
 ├── QA_Documents/
 │ └── The_lotus_room_Testing.xlsx
@@ -26,6 +27,7 @@ LotusRoom-Testing/
 ├── LICENSE
 │
 └── README.md
+
 ```
 ---
 
