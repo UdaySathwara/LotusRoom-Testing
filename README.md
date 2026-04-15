@@ -8,6 +8,26 @@ This project demonstrates end-to-end manual testing of a multi-module yoga web a
 
 ---
 
+## 📂 Project Structure
+
+LotusRoom-Testing/
+│
+├── QA_Documents/
+│ └── The_lotus_room_Testing.xlsx
+│
+├── Images/
+│ ├── Founder_image_bug.jpg
+│ ├── Home_page.jpg
+│ ├── progress-tracker.png
+│ ├── Shop_page.jpg
+│ ├── Trainer_image_bug.jpg
+│
+├── LICENSE
+│
+└── README.md
+
+---
+
 ## 🧪 Testing Scope
 
 Performed comprehensive manual testing including:
@@ -53,6 +73,23 @@ Performed comprehensive manual testing including:
 * Image loading issues (Trainer, Products, Founder)
 * Duplicate data entries
 * Broken links
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Website UI
+
+![Home Page](Images/Home_page.jpg)
+![Shop Page](Images/Shop_page.jpg)
+![Progress Tracker](Images/Progress_tracker.jpg)
+
+---
+
+### 🐞 Bug Evidence
+
+![Founder Image Loading Bug](Images/Founder_image_bug.jpg)
+![Trainer Image Bug](Images/Trainer_image_bug.jpg)
 
 ---
 
